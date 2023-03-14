@@ -44,4 +44,4 @@ this.displayResults('string')
     bind(poll))
                 poll.displayResults.call({answers: [5, 2, 3]},'string')
                 
-         
+         console.log("Good")
